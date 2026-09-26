@@ -1,6 +1,6 @@
 ---
-title: /bottleneck-hunter · 공급망 병목 사냥꾼
-description: 거대 트렌드의 물리적 공급망을 층별로 분해해, 아직 시장이 주목하지 않은 병목 구간과 그 병목을 쥔 상장사를 찾아내는 스킬입니다.
+title: "/bottleneck-hunter · 공급망 병목 사냥꾼"
+description: "거대 트렌드의 물리적 공급망을 층별로 분해해, 아직 시장이 주목하지 않은 병목 구간과 그 병목을 쥔 상장사를 찾아내는 스킬입니다."
 ---
 
 # `/bottleneck-hunter` · 공급망 병목 사냥꾼

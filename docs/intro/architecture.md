@@ -1,6 +1,6 @@
 ---
-title: 전체 구조
-description: AI Berkshire의 3계층 구조(스킬 층, 멀티 에이전트 층, 도구·데이터 층)를 설명합니다.
+title: "전체 구조"
+description: "AI Berkshire의 3계층 구조(스킬 층, 멀티 에이전트 층, 도구·데이터 층)를 설명합니다."
 ---
 
 # 전체 구조

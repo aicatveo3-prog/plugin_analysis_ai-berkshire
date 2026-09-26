@@ -1,6 +1,6 @@
 ---
-title: 스킬 21개 한눈에 보기
-description: AI Berkshire의 스킬 21개를 용도별로 정리한 목록입니다.
+title: "스킬 21개 한눈에 보기"
+description: "AI Berkshire의 스킬 21개를 용도별로 정리한 목록입니다."
 ---
 
 # 스킬 21개 한눈에 보기

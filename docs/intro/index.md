@@ -1,6 +1,6 @@
 ---
-title: AI Berkshire란?
-description: AI Berkshire가 무엇이고, 왜 AI에게 그냥 물어보는 것과 다른지 설명합니다.
+title: "AI Berkshire란?"
+description: "AI Berkshire가 무엇이고, 왜 AI에게 그냥 물어보는 것과 다른지 설명합니다."
 ---
 
 # AI Berkshire란?

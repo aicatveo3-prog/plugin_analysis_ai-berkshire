@@ -1,6 +1,6 @@
 ---
-title: /private-company-research · 비상장 기업 심층 분석
-description: 앤트 그룹·샤오훙수·SpaceX·Stripe 같은 비상장 기업을 여러 에이전트 팀이 병렬로 조사해, 부족한 정보 속에서 사업의 진짜 가치를 추정하는 스킬입니다.
+title: "/private-company-research · 비상장 기업 심층 분석"
+description: "앤트 그룹·샤오훙수·SpaceX·Stripe 같은 비상장 기업을 여러 에이전트 팀이 병렬로 조사해, 부족한 정보 속에서 사업의 진짜 가치를 추정하는 스킬입니다."
 ---
 
 # `/private-company-research` · 비상장 기업 심층 분석

@@ -1,6 +1,6 @@
 ---
-title: /investment-checklist · 버핏식 매수 전 체크리스트
-description: 한 곳 또는 여러 회사를 버핏식 가치투자 6단계 관문과 거울 테스트·즉시 탈락 목록으로 점검해 매수 전에 나쁜 선택을 걸러내는 스킬입니다.
+title: "/investment-checklist · 버핏식 매수 전 체크리스트"
+description: "한 곳 또는 여러 회사를 버핏식 가치투자 6단계 관문과 거울 테스트·즉시 탈락 목록으로 점검해 매수 전에 나쁜 선택을 걸러내는 스킬입니다."
 ---
 
 # `/investment-checklist` · 버핏식 매수 전 체크리스트

@@ -1,6 +1,6 @@
 ---
-title: /thesis-tracker · 투자 논리 추적
-description: 매수 전에 투자 논리(thesis)·핵심 가정·레드라인을 문서로 남기고, 매 분기 최신 데이터로 논리가 여전히 온전한지 점검하는 매수 후 규율 스킬입니다.
+title: "/thesis-tracker · 투자 논리 추적"
+description: "매수 전에 투자 논리(thesis)·핵심 가정·레드라인을 문서로 남기고, 매 분기 최신 데이터로 논리가 여전히 온전한지 점검하는 매수 후 규율 스킬입니다."
 ---
 
 # `/thesis-tracker` · 투자 논리 추적

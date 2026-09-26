@@ -1,6 +1,6 @@
 ---
-title: /deep-company-series · 8편 장문 기업 시리즈
-description: 한 회사를 3~8편의 장문 시리즈로 해부해 공개 채널에 연재하기 위한 글쓰기·엄격한 팩트체크·수정 절차를 정의한 스킬입니다.
+title: "/deep-company-series · 8편 장문 기업 시리즈"
+description: "한 회사를 3~8편의 장문 시리즈로 해부해 공개 채널에 연재하기 위한 글쓰기·엄격한 팩트체크·수정 절차를 정의한 스킬입니다."
 ---
 
 # `/deep-company-series` · 8편 장문 기업 시리즈

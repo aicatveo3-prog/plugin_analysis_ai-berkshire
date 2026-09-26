@@ -1,6 +1,6 @@
 ---
-title: /management-deep-dive · 경영진 심층 분석
-description: "주식을 사는 것은 사람을 사는 것"이라는 관점에서 한 기업 경영진의 정직성, 역량, 자본 배분, 지배구조를 공개 정보로 깊이 검증하는 스킬입니다.
+title: "/management-deep-dive · 경영진 심층 분석"
+description: "\"주식을 사는 것은 사람을 사는 것\"이라는 관점에서 한 기업 경영진의 정직성, 역량, 자본 배분, 지배구조를 공개 정보로 깊이 검증하는 스킬입니다."
 ---
 
 # `/management-deep-dive` · 경영진 심층 분석

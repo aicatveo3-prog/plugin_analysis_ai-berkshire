@@ -1,6 +1,6 @@
 ---
-title: /investment-research · 네 대가 종합 심층 분석
-description: 버핏·멍거·돤융핑·리루 네 대가의 방법론으로 한 기업을 데이터 수집부터 장기 할인 가치평가, 종합 투자 결정까지 단계별로 심층 분석하는 스킬입니다.
+title: "/investment-research · 네 대가 종합 심층 분석"
+description: "버핏·멍거·돤융핑·리루 네 대가의 방법론으로 한 기업을 데이터 수집부터 장기 할인 가치평가, 종합 투자 결정까지 단계별로 심층 분석하는 스킬입니다."
 ---
 
 # `/investment-research` · 네 대가 종합 심층 분석

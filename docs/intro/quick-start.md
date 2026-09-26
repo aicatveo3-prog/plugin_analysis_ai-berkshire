@@ -1,6 +1,6 @@
 ---
-title: 빠른 시작
-description: AI Berkshire 스킬을 Claude Code 또는 Codex에 설치하고 사용하는 방법입니다.
+title: "빠른 시작"
+description: "AI Berkshire 스킬을 Claude Code 또는 Codex에 설치하고 사용하는 방법입니다."
 ---
 
 # 빠른 시작
